@@ -1,4 +1,4 @@
-baseurl = "https://0sn.net/"
+baseurl = "https://tcargen-test.vercel.app/"
 languageCode = "ja-jp"
 theme = "terminal"
 paginate = 4
