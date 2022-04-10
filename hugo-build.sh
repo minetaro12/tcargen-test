@@ -13,4 +13,4 @@ do
     $FILE
 done
 
-TZ='Asia/Tokyo' hugo --gc --minify
+#TZ='Asia/Tokyo' hugo --gc --minify
